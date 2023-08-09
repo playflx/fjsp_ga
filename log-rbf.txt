@@ -1,0 +1,110 @@
+MK01.fjs:  42.0
+MK02.fjs:  33.0
+MK03.fjs:  240.0
+MK04.fjs:  73.0
+MK05.fjs:  191.0
+MK06.fjs:  103.0
+MK07.fjs:  166.0
+MK08.fjs:  541.0
+MK09.fjs:  415.0
+MK010.fjs:  349.0
+# 加上候选解的预处理MK01.fjs:
+MK01.fjs:  40.0
+MK02.fjs:  29.0
+MK03.fjs:  204.0
+MK04.fjs:  69.0
+MK05.fjs:  189.0
+MK06.fjs:  87.0
+MK07.fjs:  158.0
+MK08.fjs:  523.0
+MK09.fjs:  377.0
+MK010.fjs:  304.0
+
+# 用了多点变异加上全局选择，但是是一半迭代次数的全局选择 比三分之一好
+MK01.fjs:  42.0
+MK02.fjs:  28.0
+MK03.fjs:  204.0
+MK04.fjs:  67.0
+MK05.fjs:  176.0
+MK06.fjs:  72.0
+MK07.fjs:  144.0
+MK08.fjs:  523.0
+MK09.fjs:  347.0
+MK010.fjs:  259.0
+
+# 400种群大小400迭代次数的候选解的处理
+
+MK01.fjs:  42.0
+MK02.fjs:  28.0
+MK03.fjs:  204.0
+MK04.fjs:  63.0
+MK05.fjs:  176.0
+MK06.fjs:  69.0
+MK07.fjs:  144.0
+MK08.fjs:  523.0
+MK09.fjs:  363.0
+MK010.fjs:  248.0
+
+
+MK01.fjs:  42.0
+MK02.fjs:  28.0
+MK03.fjs:  204.0
+MK04.fjs:  69.0
+MK05.fjs:  180.0
+MK06.fjs:  76.0
+MK07.fjs:  155.0
+MK08.fjs:  523.0
+MK09.fjs:  350.0
+MK010.fjs:  264.0
+
+# 四步 三步 六步否定
+#rbf代理模型 6步
+MK01.fjs:  49.0
+MK01.fjs:  41.0
+MK02.fjs:  35.0
+MK03.fjs:  225.0
+MK04.fjs:  79.0
+MK05.fjs:  180.0
+MK06.fjs:  85.0
+MK07.fjs:  155.0
+MK08.fjs:  531.0
+MK09.fjs:  370.0
+MK010.fjs:  314.0
+#rbf代理模型 5步
+MK01.fjs:  43.0
+MK02.fjs:  33.0
+MK03.fjs:  204.0
+MK04.fjs:  69.0
+MK05.fjs:  188.0
+MK06.fjs:  82.0
+MK07.fjs:  154.0
+MK08.fjs:  523.0
+MK09.fjs:  381.0
+MK010.fjs:  317.0
+
+MK01.fjs:  45.0
+MK02.fjs:  34.0
+MK03.fjs:  209.0
+MK04.fjs:  75.0
+MK05.fjs:  192.0
+
+MK01.fjs:  44.0
+MK02.fjs:  34.0
+MK03.fjs:  234.0
+MK04.fjs:  76.0
+MK05.fjs:  191.0
+MK06.fjs:  94.0
+MK07.fjs:  206.0
+MK08.fjs:  539.0
+MK09.fjs:  416.0
+MK010.fjs:  469.0
+MK01.fjs:  44.0
+MK02.fjs:  50.0
+MK03.fjs:  239.0
+MK04.fjs:  77.0
+MK05.fjs:  195.0
+MK06.fjs:  93.0
+MK07.fjs:  163.0
+MK08.fjs:  523.0
+MK09.fjs:  395.0
+MK010.fjs:  311.0
